@@ -47,7 +47,7 @@
 
 @else
 <li class="nav-item">
-    <a class="btn btn-primary" id="loginbtn"  href="{{ route('login') }}">Login</a>
+    <a style="background-color: black" class="btn btn-primary" id="loginbtn"  href="{{ route('login') }}">Login</a>
  </li>
 
                  <li class="nav-item">

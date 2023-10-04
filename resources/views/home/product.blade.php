@@ -11,7 +11,7 @@
                 <div class="option_container">
                    <div class="options">
                       <a href="" class="option1">
-                      Men's Shirt
+                      Add to Cart
                       </a>
                       <a href="" class="option2">
                       Buy Now
@@ -19,14 +19,14 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p1.png" alt="">
+                   <img src="images/rog-lap.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Men's Shirt
+                      MSI Laptop
                    </h5>
                    <h6>
-                      $75
+                      LKR 750 000
                    </h6>
                 </div>
              </div>
@@ -44,14 +44,14 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p2.png" alt="">
+                   <img src="images/rog-vga.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Men's Shirt
+                     ROG RTX3060
                    </h5>
                    <h6>
-                      $80
+                      LKR 800 000
                    </h6>
                 </div>
              </div>
@@ -69,14 +69,14 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p3.png" alt="">
+                   <img src="images/rog-keyboard.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Women's Dress
+                     LOGITECH G512 
                    </h5>
                    <h6>
-                      $68
+                      LKR 32,500
                    </h6>
                 </div>
              </div>
@@ -94,14 +94,14 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p4.png" alt="">
+                   <img src="images/rog-monitor.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Women's Dress
+                     MSI Curved
                    </h5>
                    <h6>
-                      $70
+                     LKR 77,000
                    </h6>
                 </div>
              </div>
@@ -119,14 +119,14 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p5.png" alt="">
+                   <img src="images/amd-pro.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Women's Dress
+                     AMD RYZEN™ 9
                    </h5>
                    <h6>
-                      $75
+                     LKR 199,000
                    </h6>
                 </div>
              </div>
@@ -144,168 +144,19 @@
                    </div>
                 </div>
                 <div class="img-box">
-                   <img src="images/p6.png" alt="">
+                   <img src="images/rog-case.png" alt="">
                 </div>
                 <div class="detail-box">
                    <h5>
-                      Women's Dress
+                     ROG Hyperion
                    </h5>
                    <h6>
-                      $58
+                     LKR 155,000
                    </h6>
                 </div>
              </div>
           </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p7.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Women's Dress
-                   </h5>
-                   <h6>
-                      $80
-                   </h6>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p8.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Men's Shirt
-                   </h5>
-                   <h6>
-                      $65
-                   </h6>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p9.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Men's Shirt
-                   </h5>
-                   <h6>
-                      $65
-                   </h6>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p10.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Men's Shirt
-                   </h5>
-                   <h6>
-                      $65
-                   </h6>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p11.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Men's Shirt
-                   </h5>
-                   <h6>
-                      $65
-                   </h6>
-                </div>
-             </div>
-          </div>
-          <div class="col-sm-6 col-md-4 col-lg-4">
-             <div class="box">
-                <div class="option_container">
-                   <div class="options">
-                      <a href="" class="option1">
-                      Add To Cart
-                      </a>
-                      <a href="" class="option2">
-                      Buy Now
-                      </a>
-                   </div>
-                </div>
-                <div class="img-box">
-                   <img src="images/p12.png" alt="">
-                </div>
-                <div class="detail-box">
-                   <h5>
-                      Women's Dress
-                   </h5>
-                   <h6>
-                      $65
-                   </h6>
-                </div>
-             </div>
-          </div>
+          
        </div>
        <div class="btn-box">
           <a href="">

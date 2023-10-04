@@ -10,7 +10,7 @@
       <meta name="keywords" content="" />
       <meta name="description" content="" />
       <meta name="author" content="" />
-      <link rel="shortcut icon" href="images/favicon.png" type="">
+      <link rel="shortcut icon" href="images/favicon1.ico" type="">
       <title>Tech Heaven</title>
       <!-- bootstrap core css -->
       <link rel="stylesheet" type="text/css" href="home/css/bootstrap.css" />
@@ -55,7 +55,7 @@
       @include('home.fotter')
       <!-- footer end -->
       <div class="cpy_">
-         <p class="mx-auto">© 2021 All Rights Reserved By Damith Pathirana
+         <p class="mx-auto">© 2023 All Rights Reserved By Damith Pathirana
          
           
          

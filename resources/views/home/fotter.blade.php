@@ -8,7 +8,7 @@
                  </div>
                  <div class="information_f">
                    <p><strong>ADDRESS:</strong> Sri Lanka Kandy</p>
-                   <p><strong>TELEPHONE:</strong> +94 77 123 1234/p>
+                   <p><strong>TELEPHONE:</strong> +94 77 123 1234</p>
                    <p><strong>EMAIL:</strong> TechHeavn@gmail.com</p>
                  </div>
               </div>
@@ -49,7 +49,7 @@
                 <div class="widget_menu">
                    <h3>Newsletter</h3>
                    <div class="information_f">
-                     <p>Subscribe by our newsletter and get update protidin.</p>
+                     <p>Subscribe by our newsletter and get updated</p>
                    </div>
                    <div class="form_sub">
                       <form>
